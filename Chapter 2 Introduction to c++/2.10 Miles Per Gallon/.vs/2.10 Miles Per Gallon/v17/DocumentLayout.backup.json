@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.10 Miles Per Gallon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3E686E-F17F-43A5-8139-627C750C66E4}|2.10 Miles Per Gallon\\2.10 Miles Per Gallon.vcxproj|F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.10 Miles Per Gallon\\2.10 Miles Per Gallon\\2.10 Miles Per Gallon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C3E686E-F17F-43A5-8139-627C750C66E4}|2.10 Miles Per Gallon\\2.10 Miles Per Gallon.vcxproj|solutionrelative:2.10 Miles Per Gallon\\2.10 Miles Per Gallon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.10 Miles Per Gallon.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.10 Miles Per Gallon\\2.10 Miles Per Gallon\\2.10 Miles Per Gallon.cpp",
+              "RelativeDocumentMoniker": "2.10 Miles Per Gallon\\2.10 Miles Per Gallon.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.10 Miles Per Gallon\\2.10 Miles Per Gallon\\2.10 Miles Per Gallon.cpp*",
+              "RelativeToolTip": "2.10 Miles Per Gallon\\2.10 Miles Per Gallon.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T04:48:04.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

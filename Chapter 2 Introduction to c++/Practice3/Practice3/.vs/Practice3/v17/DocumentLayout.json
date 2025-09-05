@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\Practice3\\Practice3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ED2A7F-661D-4F5B-9F20-EC338A18A953}|Practice3\\Practice3.vcxproj|F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\Practice3\\Practice3\\Practice3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3ED2A7F-661D-4F5B-9F20-EC338A18A953}|Practice3\\Practice3.vcxproj|solutionrelative:Practice3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\Practice3\\Practice3\\Practice3\\main.cpp",
+              "RelativeDocumentMoniker": "Practice3\\main.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\Practice3\\Practice3\\Practice3\\main.cpp",
+              "RelativeToolTip": "Practice3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T03:47:12.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  2.2 Sales Prediction.cpp
+F:\VisualStudio\Chapter 2 Introduction to c++\2.2 Sales Prediction\2.2 Sales Prediction\2.2 Sales Prediction.cpp(7,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  2.2 Sales Prediction.vcxproj -> F:\VisualStudio\Chapter 2 Introduction to c++\2.2 Sales Prediction\x64\Debug\2.2 Sales Prediction.exe

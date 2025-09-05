@@ -1,0 +1,7 @@
+﻿  2.8 Total Purchase.cpp
+F:\VisualStudio\Chapter 2 Introduction to c++\2.8 Total Purchase\2.8 Total Purchase\2.8 Total Purchase.cpp(6,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\VisualStudio\Chapter 2 Introduction to c++\2.8 Total Purchase\2.8 Total Purchase\2.8 Total Purchase.cpp(7,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\VisualStudio\Chapter 2 Introduction to c++\2.8 Total Purchase\2.8 Total Purchase\2.8 Total Purchase.cpp(8,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\VisualStudio\Chapter 2 Introduction to c++\2.8 Total Purchase\2.8 Total Purchase\2.8 Total Purchase.cpp(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\VisualStudio\Chapter 2 Introduction to c++\2.8 Total Purchase\2.8 Total Purchase\2.8 Total Purchase.cpp(10,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  2.8 Total Purchase.vcxproj -> F:\VisualStudio\Chapter 2 Introduction to c++\2.8 Total Purchase\x64\Debug\2.8 Total Purchase.exe

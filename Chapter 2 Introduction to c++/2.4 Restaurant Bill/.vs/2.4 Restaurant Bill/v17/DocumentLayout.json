@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.4 Restaurant Bill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E6B65-ECFC-4435-B702-CEB309386EBB}|2.4 Restaurant Bill\\2.4 Restaurant Bill.vcxproj|F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.4 Restaurant Bill\\2.4 Restaurant Bill\\2.4 Restaurant Bill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C0E6B65-ECFC-4435-B702-CEB309386EBB}|2.4 Restaurant Bill\\2.4 Restaurant Bill.vcxproj|solutionrelative:2.4 Restaurant Bill\\2.4 Restaurant Bill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.4 Restaurant Bill.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.4 Restaurant Bill\\2.4 Restaurant Bill\\2.4 Restaurant Bill.cpp",
+              "RelativeDocumentMoniker": "2.4 Restaurant Bill\\2.4 Restaurant Bill.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 2 Introduction to c\u002B\u002B\\2.4 Restaurant Bill\\2.4 Restaurant Bill\\2.4 Restaurant Bill.cpp",
+              "RelativeToolTip": "2.4 Restaurant Bill\\2.4 Restaurant Bill.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T02:40:55.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
