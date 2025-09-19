@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3529109-536C-4476-9C8B-48AEC355D659}|Practice\\Practice.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3529109-536C-4476-9C8B-48AEC355D659}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A4C1351-5E7D-4F52-9E83-9ABCCE6FA0C6}|Practice\\Practice.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A4C1351-5E7D-4F52-9E83-9ABCCE6FA0C6}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
               "Title": "Practice.cpp",
               "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice\\Practice\\Practice.cpp",
               "RelativeDocumentMoniker": "Practice\\Practice.cpp",
-              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice\\Practice\\Practice.cpp",
-              "RelativeToolTip": "Practice\\Practice.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice\\Practice\\Practice.cpp*",
+              "RelativeToolTip": "Practice\\Practice.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T02:49:03.803Z",
+              "WhenOpened": "2025-09-09T17:24:48.653Z",
               "EditorCaption": ""
             }
           ]

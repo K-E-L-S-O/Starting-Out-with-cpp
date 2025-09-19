@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5179E342-3706-4ECD-9FDA-E3DD9A6A6505}|Practice7\\Practice7.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice7\\Practice7\\Practice7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5179E342-3706-4ECD-9FDA-E3DD9A6A6505}|Practice7\\Practice7.vcxproj|solutionrelative:Practice7\\Practice7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice7.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice7\\Practice7\\Practice7.cpp",
+              "RelativeDocumentMoniker": "Practice7\\Practice7.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Practice7\\Practice7\\Practice7.cpp",
+              "RelativeToolTip": "Practice7\\Practice7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T20:54:51.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

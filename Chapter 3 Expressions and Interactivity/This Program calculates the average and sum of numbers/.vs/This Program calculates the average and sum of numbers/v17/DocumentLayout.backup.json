@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\This Program calculates the average and sum of numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363A63D4-FFC3-4F85-BBBC-14AD25BEF560}|This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{363A63D4-FFC3-4F85-BBBC-14AD25BEF560}|This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.vcxproj|solutionrelative:This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "This Program calculates the average and sum of numbers.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.cpp",
+              "RelativeDocumentMoniker": "This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.cpp",
+              "RelativeToolTip": "This Program calculates the average and sum of numbers\\This Program calculates the average and sum of numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T06:36:59.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

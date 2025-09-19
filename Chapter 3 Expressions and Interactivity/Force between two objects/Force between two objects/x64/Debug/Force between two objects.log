@@ -1,0 +1,3 @@
+﻿  Force between two objects.cpp
+F:\VisualStudio\Chapter 3 Expressions and Interactivity\Force between two objects\Force between two objects\Force between two objects.cpp(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Force between two objects.vcxproj -> F:\VisualStudio\Chapter 3 Expressions and Interactivity\Force between two objects\x64\Debug\Force between two objects.exe
