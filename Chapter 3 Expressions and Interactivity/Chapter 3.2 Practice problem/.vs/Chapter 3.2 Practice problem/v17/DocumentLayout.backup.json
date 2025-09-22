@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.2 Practice problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B7CB3F-D3CD-4428-B465-D110687B6EBE}|Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5B7CB3F-D3CD-4428-B465-D110687B6EBE}|Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.vcxproj|solutionrelative:Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter 3.2 Practice problem.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.cpp",
+              "RelativeDocumentMoniker": "Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.cpp",
+              "RelativeToolTip": "Chapter 3.2 Practice problem\\Chapter 3.2 Practice problem.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T05:49:44.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

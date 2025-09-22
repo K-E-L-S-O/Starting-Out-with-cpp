@@ -1,19 +1,12 @@
- #include <iostream>
- #include <string>
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+#include <cstdlib>
+int main()
+{
+	int y;
 
- int main()
- {
-	 int age;
-	 std::string name;
-
-	 std::cout << "Enter your age: ";
-     std::cin >> age;
-	 std::cin.ignore();
-
-	 std::cout << "Enter your name: ";
-	 std::getline(std::cin, name);
-
-	 std::cout << "Thanks! " << name << " you are " << age << " years old!";
-
-	 return 0;
-	 }
+	y = rand();
+	
+	return 0;
+}
