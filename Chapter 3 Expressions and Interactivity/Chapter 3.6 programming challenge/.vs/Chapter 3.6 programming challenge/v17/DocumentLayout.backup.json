@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.6 programming challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DA8D47-592D-4A87-8C95-00866C452B63}|Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31DA8D47-592D-4A87-8C95-00866C452B63}|Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.vcxproj|solutionrelative:Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter 3.6 programming challenge.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.cpp",
+              "RelativeDocumentMoniker": "Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.cpp",
+              "RelativeToolTip": "Chapter 3.6 programming challenge\\Chapter 3.6 programming challenge.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T04:06:44.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

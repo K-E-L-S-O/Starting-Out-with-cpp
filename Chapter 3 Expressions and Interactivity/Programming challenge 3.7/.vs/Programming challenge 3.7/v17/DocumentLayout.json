@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Programming challenge 3.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD672B-25E6-404D-999E-53B103EC3E7C}|Programming challenge 3.7\\Programming challenge 3.7.vcxproj|F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Programming challenge 3.7\\Programming challenge 3.7\\Programming challenge 3.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFFD672B-25E6-404D-999E-53B103EC3E7C}|Programming challenge 3.7\\Programming challenge 3.7.vcxproj|solutionrelative:Programming challenge 3.7\\Programming challenge 3.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programming challenge 3.7.cpp",
+              "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Programming challenge 3.7\\Programming challenge 3.7\\Programming challenge 3.7.cpp",
+              "RelativeDocumentMoniker": "Programming challenge 3.7\\Programming challenge 3.7.cpp",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\Programming challenge 3.7\\Programming challenge 3.7\\Programming challenge 3.7.cpp",
+              "RelativeToolTip": "Programming challenge 3.7\\Programming challenge 3.7.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T05:03:09.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

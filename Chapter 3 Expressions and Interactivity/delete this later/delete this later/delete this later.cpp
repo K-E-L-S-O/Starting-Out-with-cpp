@@ -1,12 +1,13 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-#include <cstdlib>
+
 int main()
 {
-	int y;
+	double population = 5600.4563728978;
 
-	y = rand();
-	
+	std::cout << std::left << std::setw(12) << std::showpoint
+		<< std::setprecision(8) << population;
+
 	return 0;
 }

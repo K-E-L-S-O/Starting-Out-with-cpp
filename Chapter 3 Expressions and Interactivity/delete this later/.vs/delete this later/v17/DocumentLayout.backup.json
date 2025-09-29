@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "delete this later.cpp",
               "DocumentMoniker": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\delete this later\\delete this later\\delete this later.cpp",
               "RelativeDocumentMoniker": "delete this later\\delete this later.cpp",
-              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\delete this later\\delete this later\\delete this later.cpp*",
-              "RelativeToolTip": "delete this later\\delete this later.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ToolTip": "F:\\VisualStudio\\Chapter 3 Expressions and Interactivity\\delete this later\\delete this later\\delete this later.cpp",
+              "RelativeToolTip": "delete this later\\delete this later.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-12T02:08:47.567Z",
               "EditorCaption": ""

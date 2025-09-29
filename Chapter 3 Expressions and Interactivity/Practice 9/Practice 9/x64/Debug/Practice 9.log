@@ -1,0 +1,3 @@
+﻿  Practice 9.cpp
+F:\VisualStudio\Chapter 3 Expressions and Interactivity\Practice 9\Practice 9\Practice 9.cpp(11,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Practice 9.vcxproj -> F:\VisualStudio\Chapter 3 Expressions and Interactivity\Practice 9\x64\Debug\Practice 9.exe
